@@ -36,6 +36,9 @@
 [![CurseForge](https://img.shields.io/curseforge/dt/1300184?style=flat-square&color=6aa84f&logo=curseforge&label=SILLY%20ODDITIES)](https://www.curseforge.com/minecraft/mc-mods/silly-oddities)
 [![Modrinth](https://img.shields.io/modrinth/dt/very-silly-oddities?style=flat-square&color=6aa84f&logo=modrinth&label=SILLY%20ODDITIES)](https://modrinth.com/mod/very-silly-oddities)
 ###
+- [PawPaintDS](https://github.com/MaxBogomol/PawPaintDS) - graphical editor for Nintendo DS | C/C++ |
+[![Github](https://img.shields.io/github/stars/maxbogomol/PawPaintDS?style=flat-square&color=6aa84f&logo=github&label=PAW%20PAINT%20DS)](https://github.com/MaxBogomol/PawPaintDS)
+###
 - ShrimpTerminal - Raspberry Pi 3B+ portable PC
-- [ShrimpBoard](https://github.com/MaxBogomol/ShrimpBoard) - ESP32-S3 multi-keyboard | C++/C |
-[![Github](https://img.shields.io/github/stars/maxbogomol/ShrimpBoard?style=flat-square&color=6aa84f&logo=github&label=ShrimpBoard)](https://github.com/MaxBogomol/ShrimpBoard)
+- [ShrimpBoard](https://github.com/MaxBogomol/ShrimpBoard) - ESP32-S3 multi-keyboard | C/C++ |
+[![Github](https://img.shields.io/github/stars/maxbogomol/ShrimpBoard?style=flat-square&color=6aa84f&logo=github&label=SHRIMP%20BOARD)](https://github.com/MaxBogomol/ShrimpBoard)
