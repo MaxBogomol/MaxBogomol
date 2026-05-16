@@ -43,3 +43,7 @@
 - ShrimpTerminal - Raspberry Pi 3B+ portable PC
 - [ShrimpBoard](https://github.com/MaxBogomol/ShrimpBoard) - ESP32-S3 multi-keyboard | C/C++ |
 [![Github](https://img.shields.io/github/stars/maxbogomol/ShrimpBoard?style=flat-square&color=6aa84f&logo=github&label=SHRIMP%20BOARD)](https://github.com/MaxBogomol/ShrimpBoard)
+
+#
+![](https://fluffy-village.dev/assets/flags/ace.png)
+![](https://fluffy-village.dev/assets/flags/gay.png)
