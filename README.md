@@ -39,6 +39,6 @@
 - [ShrimpBoard](https://github.com/MaxBogomol/ShrimpBoard) - ESP32-S3 multi-keyboard | C/C++
 
 #
-![](https://fluffy-village.dev/assets/flags/ace.png)
-![](https://fluffy-village.dev/assets/flags/agender.png)
-![](https://fluffy-village.dev/assets/flags/gay.png)
+![](https://raw.githubusercontent.com/MaxBogomol/MaxBogomol/refs/heads/main/assets/flags/ace.png)
+![](https://raw.githubusercontent.com/MaxBogomol/MaxBogomol/refs/heads/main/assets/flags/agender.png)
+![](https://raw.githubusercontent.com/MaxBogomol/MaxBogomol/refs/heads/main/assets/flags/gay.png)
