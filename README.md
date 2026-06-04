@@ -38,7 +38,9 @@
 - Shrimp Terminal - Raspberry Pi 3B+ portable PC
 - [ShrimpBoard](https://github.com/MaxBogomol/ShrimpBoard) - ESP32-S3 multi-keyboard | C/C++
 
-#
+# About me
+Hh-hello.. I'm a smol furry femboy (or just a girl). I'm ace, agender ang homoromantic.  
+I love my [bf](https://github.com/OnixTheCat),  
 ![](https://raw.githubusercontent.com/MaxBogomol/MaxBogomol/refs/heads/main/assets/flags/ace.png)
 ![](https://raw.githubusercontent.com/MaxBogomol/MaxBogomol/refs/heads/main/assets/flags/agender.png)
 ![](https://raw.githubusercontent.com/MaxBogomol/MaxBogomol/refs/heads/main/assets/flags/gay.png)
