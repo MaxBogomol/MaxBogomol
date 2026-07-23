@@ -17,7 +17,7 @@ I love my [bf](https://github.com/OnixTheCat),
 - [Modrinth](https://modrinth.com/user/MaxBogomol) |
 [![Modrinth](https://img.shields.io/badge/%20-MAXBOGOMOL-000000?style=flat-square&color=349a46&logo=modrinth&logoColor=000000&labelColor=FFFFFF)](https://modrinth.com/user/MaxBogomol)
 - [Discord](https://discord.gg/cKf55qNugw) |
-[![Discord](https://img.shields.io/discord/1155188824360624148?style=flat-square&color=6aa84f&logo=discord&label=THE%20FLUFFY%20VILLAGE)](https://discord.gg/cKf55qNugw)
+[![Discord](https://img.shields.io/discord/1155188824360624148?style=flat-square&color=6aa84f&logo=discord&label=THE%20FLUFFY%20VILLAGE)](https://discord.fluffy-village.dev/)
 
 # Projects
 ### Websites
